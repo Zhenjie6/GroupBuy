@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">GroupBuy</string>
+    <string name="user_login">用户登录</string>
+    <string-array name="main_menus">
+        <item>机票</item>
+        <item>车票</item>
+        <item>汽车</item>
+        <item>蛋糕</item>
+        <item>美食</item>
+        <item>手表</item>
+        <item>电脑</item>
+        <item>手机</item>
+    </string-array>
+    <string-array name="good_name">
+        <item>牛排</item>
+        <item>地三鲜</item>
+        <item>松仁大虾</item>
+        <item>冷饮</item>
+        <item>牛排</item>
+        <item>地三鲜</item>
+        <item>松仁大虾</item>
+        <item>冷饮</item>
+        <item>牛排</item>
+        <item>地三鲜</item>
+        <item>松仁大虾</item>
+        <item>冷饮</item>
+    </string-array>
+
+    <string-array name="good_info">
+        <item>超值单人套餐，30分钟极速配送</item>
+        <item>营养搭配，科学膳食组合</item>
+        <item>在这里可以尽享各种美味</item>
+        <item>体验酸甜冷热想吃就吃</item>
+        <item>超值单人套餐，30分钟极速配送</item>
+        <item>营养搭配，科学膳食组合</item>
+        <item>在这里可以尽享各种美味</item>
+        <item>体验酸甜冷热想吃就吃</item>
+        <item>超值单人套餐，30分钟极速配送</item>
+        <item>营养搭配，科学膳食组合</item>
+        <item>在这里可以尽享各种美味</item>
+        <item>体验酸甜冷热想吃就吃</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DownloadPicDemo</string>
+    <string name="get_online_pic">获取网络图片</string>
+</resources>
